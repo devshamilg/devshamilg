@@ -1,6 +1,6 @@
 ## Hi, I'm Shamil 👋
 
-I'm a second year software engineering student passionate about backend development. 
+I'm a second-year software engineering student passionate about backend development. 
 Currently preparing for a position as a software engineering intern, building projects and expanding my technical knowledge.
 
 ### 🛠 Tech Stack
