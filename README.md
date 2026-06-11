@@ -19,5 +19,5 @@ Currently preparing for a position as a software engineering intern, building pr
 - Database optimization
 - Authentication & authorization
 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,postgres,linux,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,linux,docker,git)](https://skillicons.dev)
 
