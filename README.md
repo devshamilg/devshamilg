@@ -11,6 +11,8 @@ Currently preparing for a position as a software engineering intern, building pr
 - Linux
 - fastapi-users
 
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,linux,docker,git)](https://skillicons.dev)
+
 ### 🚀 Featured Projects
 - MaxMedia Censor - An AI-powered audio-editing SaaS application used by 30+ real users
   
@@ -19,5 +21,5 @@ Currently preparing for a position as a software engineering intern, building pr
 - Database optimization
 - Authentication & authorization
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,linux,docker,git)](https://skillicons.dev)
+
 
